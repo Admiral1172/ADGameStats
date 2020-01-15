@@ -11,4 +11,4 @@
 ## Instructions
 - Need Visual Studio 2019 (Recommend Community)
 - Download ZIP
-- Open ADGameStats.sln to view code
+- Open ADGameStats.sln to view or run code
